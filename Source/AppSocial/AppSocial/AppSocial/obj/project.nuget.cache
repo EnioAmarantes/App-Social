@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "l7VbU2G+a1GqmlHmNgEveKNmZBAhURj9nrdec4AEvIEe+dt5yxGZ6hDI23juk/WBXRfN/ri0gC4Pri6UmubLNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enio\\source\\repos\\App-Social\\Source\\AppSocial\\AppSocial\\AppSocial\\AppSocial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\enio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\enio\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

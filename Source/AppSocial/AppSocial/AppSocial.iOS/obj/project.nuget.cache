@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gqQbsGWKSu+oiJ3Bov/MgCgHFHZuaRjcIDZs1ySZKvT+swWRvCoe0DKKZ3B4tab3f6hBgZnBxn8PTZW6aevC3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enio\\source\\repos\\App-Social\\Source\\AppSocial\\AppSocial\\AppSocial.iOS\\AppSocial.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
